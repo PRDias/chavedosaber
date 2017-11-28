@@ -1,0 +1,10 @@
+Thu, 05 Oct 2017 14:59:23 +0000 - PROCESSED:
+ - MINIFIED [cache] - dashicons - http://escolachavedosaber.com.br/wp-includes/css/dashicons.min.css 
+ - MINIFIED [cache] - admin-bar - http://escolachavedosaber.com.br/wp-includes/css/admin-bar.min.css 
+ - MINIFIED [cache] - contact-form-7 - http://escolachavedosaber.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css 
+ - MINIFIED [cache] - wpfcas_style - http://escolachavedosaber.com.br/wp-content/plugins/wp-featured-content-and-slider/assets/css/featured-content-style.css 
+ - MINIFIED [cache] - wpfcas_slick_style - http://escolachavedosaber.com.br/wp-content/plugins/wp-featured-content-and-slider/assets/css/slick.css 
+ - MINIFIED [cache] - himalayas-style - http://escolachavedosaber.com.br/wp-content/themes/himalayas/style.css 
+ - MINIFIED [cache] - himalayas-featured-image-popup-css - http://escolachavedosaber.com.br/wp-content/themes/himalayas/js/magnific-popup/magnific-popup.css 
+ - MINIFIED [cache] - sedlex_styles - http://escolachavedosaber.com.br/wp-content/sedlex/inline_styles/70f3565aead1fbb10e6c918163bc69c1b79a9993.css 
+Thu, 05 Oct 2017 14:59:23 +0000 - ALL DONE

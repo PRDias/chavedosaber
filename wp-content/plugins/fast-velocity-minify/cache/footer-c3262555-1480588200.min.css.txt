@@ -1,0 +1,8 @@
+Sat, 23 Sep 2017 15:44:45 +0000 - PROCESSED:
+ - MINIFIED [empty file] - gallery-all-css - http://escolachavedosaber.com.br/wp-content/plugins/gallery-images/includes/../assets/style/gallery-all.css 
+ - MINIFIED [cache] - style2-os-css - http://escolachavedosaber.com.br/wp-content/plugins/gallery-images/includes/../assets/style/style2-os.css 
+ - MINIFIED [cache] - lightbox-css - http://escolachavedosaber.com.br/wp-content/plugins/gallery-images/includes/../assets/style/lightbox.css 
+ - MINIFIED [cache] - fontawesome-css - http://escolachavedosaber.com.br/wp-content/plugins/gallery-images/includes/../assets/style/css/font-awesome.css 
+ - MINIFIED [cache] - gallery_img_colorbox_css - http://escolachavedosaber.com.br/wp-content/plugins/gallery-images/assets/style/colorbox-1.css 
+ - MINIFIED [cache] - thumb_view-css - http://escolachavedosaber.com.br/wp-content/plugins/gallery-images/includes/../assets/style/thumb_view.css 
+Sat, 23 Sep 2017 15:44:46 +0000 - ALL DONE

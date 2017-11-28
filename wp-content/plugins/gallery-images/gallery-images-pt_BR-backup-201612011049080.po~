@@ -1,0 +1,390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-01 10:34+0000\n"
+"PO-Revision-Date: 2016-12-01 10:36+0000\n"
+"Last-Translator: Escola Chave do Saber <contato@escolachavedosaber.com.br>\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt-BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: gallery-images.php:63 gallery-images.php:70
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-gallery-img-shortcode.php:79
+msgid "Select Huge IT gallery to insert into post"
+msgstr "Selecione a galeria de imagens para inserir no post"
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:168
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:184
+msgid "Ratings:"
+msgstr "Classificações"
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:170
+msgid "Like"
+msgstr "Curtidas"
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:176
+msgid "Dislike"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:186
+msgid "Hearts"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:210
+msgid "Image Gallery Custom Options"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:214
+msgid "Gallery name"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:221
+msgid "Select View"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:226
+#: templates/admin/gallery-img-admin-general-options-html.php:26
+msgid "Gallery/Content-Popup"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:229
+#: templates/admin/gallery-img-admin-general-options-html.php:28
+msgid "Content Slider"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:233
+#: templates/admin/gallery-img-admin-general-options-html.php:31
+msgid "Lightbox-Gallery"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:236
+#: templates/admin/gallery-img-admin-general-options-html.php:33
+msgid "Slider"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:239
+msgid "Thumbnails View"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:242
+#: templates/admin/gallery-img-admin-general-options-html.php:35
+msgid "Justified"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:246
+#: templates/admin/gallery-img-admin-general-options-html.php:37
+msgid "Blog Style Gallery"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:257
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:294
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:331
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:368
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:508
+msgid "Displaying Content"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:263
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:300
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:337
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:374
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:514
+msgid "Pagination"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:267
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:304
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:341
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:378
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:518
+msgid "Load More"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:271
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:308
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:345
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:382
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:522
+msgid "Show All"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:277
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:314
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:351
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:388
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:528
+msgid "Images Per Page"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:403
+msgid "Width"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:409
+msgid "Height"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:416
+msgid "Effects"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:420
+msgid "None"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:424
+msgid "Cube Horizontal"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:428
+msgid "Cube Vertical"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:431
+msgid "Fade"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:435
+msgid "Slice Horizontal"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:439
+msgid "Slice Vertical"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:443
+msgid "Slide Horizontal"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:447
+msgid "Slide Vertical"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:451
+msgid "Scale Out"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:455
+msgid "Scale In"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:459
+msgid "Block Scale"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:463
+msgid "Kaleidoscope"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:466
+msgid "Fan"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:470
+msgid "Blind Horizontal"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:474
+msgid "Blind Vertical"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:478
+msgid "Random"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:483
+msgid "Slider Position"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:487
+msgid "Left"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:491
+msgid "Right"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:495
+msgid "Center"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:544
+msgid "Autoslide"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:555
+msgid "Pause on hover"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:564
+msgid "Pause time"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:570
+msgid "Change speed"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:576
+msgid "Ratings"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:581
+msgid "Off"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:585
+msgid "Like/Dislike"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:588
+msgid "Heart"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:602
+msgid "Usage"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:606
+msgid "Shortcode"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:607
+msgid ""
+"Copy &amp; paste the shortcode directly into any WordPress post or page."
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:612
+msgid "Template Include"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:613
+msgid ""
+"Copy &amp; paste this code into a template file to include the slideshow "
+"within your theme."
+msgstr ""
+
+#: templates/admin/gallery-img-admin-inline-popup-content-html.php:11
+msgid "Select Huge IT Gallery to insert into post"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-galleries-list.php:17
+#: includes/admin/class-gallery-img-admin.php:78
+#: includes/admin/class-gallery-img-admin.php:78
+msgid "Galleries"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-galleries-list.php:19
+msgid "Add New Gallery"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-galleries-list.php:46
+msgid "ID"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-galleries-list.php:49
+msgid "Name"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-galleries-list.php:54
+msgid "Duplicate"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-galleries-list.php:56
+msgid "Delete"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-general-options-html.php:10
+msgid ""
+"These features are available in the Professional version of the plugin only."
+msgstr ""
+
+#: templates/admin/gallery-img-admin-general-options-html.php:11
+msgid "Enable"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-general-options-html.php:17
+msgid "General Options"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-general-options-html.php:18
+msgid "Save"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-general-options-html.php:34
+msgid "Thumbnails"
+msgstr ""
+
+#: includes/admin/class-gallery-img-admin.php:83
+#: includes/admin/class-gallery-img-admin.php:83
+msgid "Advanced Features PRO"
+msgstr ""
+
+#: includes/admin/class-gallery-img-admin.php:87
+#: includes/admin/class-gallery-img-admin.php:87
+msgid "Lightbox Options"
+msgstr ""
+
+#: includes/admin/class-gallery-img-admin.php:92
+#: includes/admin/class-gallery-img-admin.php:92
+msgid "Featured Plugins"
+msgstr ""
+
+#: includes/admin/class-gallery-img-admin.php:96
+#: includes/admin/class-gallery-img-admin.php:96
+msgid "Licensing"
+msgstr ""
+
+#. Name of the plugin
+msgid "Gallery"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Gallery image is the best gallery plugin to use if you want to be original "
+"with your website. Responsive image gallery with many views."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://huge-it.com/wordpress-gallery/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Huge-IT"
+msgstr ""
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:69
+#: templates/admin/gallery-img-admin-galleries-list.php:52
+msgid "Images"
+msgstr "Imagens"
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:72
+msgid "Image preview on hover"
+msgstr "Ver imagem"
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:86
+msgid "Add Video"
+msgstr "Adicionar Video"
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:140
+msgid "URL:"
+msgstr "Link"
+
+#: templates/admin/gallery-img-admin-gallery-images-list-html.php:146
+msgid "Open in new tab"
+msgstr "Abrir em nova janela"
+
+#: includes/admin/class-gallery-img-admin.php:74
+msgid "Huge-IT  Gallery"
+msgstr "Galeria de fotos"
+
+#: includes/admin/class-gallery-img-admin.php:74
+msgid "Huge-IT Gallery"
+msgstr "Galeria de fotos"
